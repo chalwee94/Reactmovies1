@@ -20,12 +20,19 @@
   "devDependencies": {
     "concurrently": "^7.0.0"
   },
+  "engines": {
+    "node": "v16.13.1",
+    "npm": "8.3.0"
+  },
   "scripts": {
-    "dev": "concurrently npm:dev:server npm:dev:client",
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "build": "npm run build:client && npm run build:server",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "cd client && npm install --include=dev && npm run build",
+    "build:server": "cd server && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chalwee94/Reactmovies1.git"
@@ -37,4 +44,4 @@
     "url": "https://github.com/chalwee94/Reactmovies1/issues"
   },
   "homepage": "https://github.com/chalwee94/Reactmovies1#readme"
-}
+}}
