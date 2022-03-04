@@ -8,8 +8,8 @@ function FrontPage() {
     return <div>
         <h1>all movies</h1>
         <ul>
-            <li><Link to={"/movies"}>List Movies</Link></li>
-            <li><Link to={"/movies/new"}>Add Movie</Link></li>
+            <li><Link to="/movies">List movies</Link></li>
+        <li><Link to={"/movies/new"}>Add Movie</Link></li>
         </ul>
     </div>;
 }

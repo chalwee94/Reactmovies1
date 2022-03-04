@@ -12,11 +12,11 @@
 101C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\objectSpread2.js132897022857282469 0
 61C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules132902039257397064 1
 100C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\history\umd\history.development.js.map132897022854828523 0
-80C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.package-lock.json132902046265368669 0
+80C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.package-lock.json132904706790296434 0
 103C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\scheduler\cjs\scheduler.production.min.js132897022855151235 0
 109C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\toConsumableArray.js132897022856882417 0
-61C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package.json132902039257494977 0
-66C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package-lock.json132902046265344680 0
+61C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package.json132904706722626881 0
+66C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package-lock.json132904706790269444 0
 113C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\iterableToArrayLimitLoose.js132897022857178518 0
 75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\scheduler\cjs132897022855116150 1
 75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\object-assign132897022854029157 1
