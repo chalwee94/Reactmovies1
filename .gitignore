@@ -1,5 +1,5 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
+/.idea/
+node_modules/
+dist/
+.parcel-cache/

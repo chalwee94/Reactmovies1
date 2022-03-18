@@ -1,22 +1,22 @@
 381
-53C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist132902047219664959 1
+53C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist132908765338858018 1
 78C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\react-router-dom132897022855136800 1
 114C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\interopRequireWildcard.js132897022856440434 0
 85C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\use-effect\package.json132897022853805149 0
 80C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\usestate\README.md132897022853929042 0
 59C:\Users\lenovo\IdeaProjects\Reactmovies1\client\index.html132896273896842369 0
-58C:\Users\lenovo\IdeaProjects\Reactmovies1\client\index.jsx132902045729744560 0
+58C:\Users\lenovo\IdeaProjects\Reactmovies1\client\index.jsx132908750435534526 0
 96C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\inherits.js132897022857048595 0
 118C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\classStaticPrivateFieldSpecSet.js132897022855497197 0
 89C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\regenerator-runtime\LICENSE132897022853805149 0
 101C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\objectSpread2.js132897022857282469 0
 61C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules132902039257397064 1
 100C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\history\umd\history.development.js.map132897022854828523 0
-80C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.package-lock.json132904706790296434 0
+80C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.package-lock.json132916740133683227 0
 103C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\scheduler\cjs\scheduler.production.min.js132897022855151235 0
 109C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\toConsumableArray.js132897022856882417 0
 61C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package.json132904706722626881 0
-66C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package-lock.json132904706790269444 0
+66C:\Users\lenovo\IdeaProjects\Reactmovies1\client\package-lock.json132916740133657856 0
 113C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\iterableToArrayLimitLoose.js132897022857178518 0
 75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\scheduler\cjs132897022855116150 1
 75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\object-assign132897022854029157 1
@@ -352,7 +352,7 @@
 100C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\defaults.js132897022856289169 0
 106C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\defineProperty.js132897022856309232 0
 95C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\get.js132897022856329177 0
-75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist\index.d498c491.js.map132902047219635047 0
+75C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist\index.d498c491.js.map132908765338838091 0
 100C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\identity.js132897022856359878 0
 116C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\initializerWarningHelper.js132897022856409745 0
 113C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\interopRequireDefault.js132897022856430462 0
@@ -379,4 +379,4 @@
 102C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\@babel\runtime\helpers\esm\wrapRegExp.js132897022856973519 0
 79C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.bin\loose-envify132897022857743258 0
 83C:\Users\lenovo\IdeaProjects\Reactmovies1\client\node_modules\.bin\loose-envify.ps1132897022857723210 0
-71C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist\index.d498c491.js132902047219504080 0
+71C:\Users\lenovo\IdeaProjects\Reactmovies1\client\dist\index.d498c491.js132908765338708458 0

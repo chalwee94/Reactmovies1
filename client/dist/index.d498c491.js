@@ -1023,7 +1023,7 @@ function FrontPage() {
                     /*#__PURE__*/ _jsxDevRuntime.jsxDEV("li", {
                         children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
                             to: "/movies",
-                            children: "List Movies"
+                            children: "List movies"
                         }, void 0, false, {
                             fileName: "index.jsx",
                             lineNumber: 11,
@@ -1041,12 +1041,12 @@ function FrontPage() {
                         }, void 0, false, {
                             fileName: "index.jsx",
                             lineNumber: 12,
-                            columnNumber: 17
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "index.jsx",
                         lineNumber: 12,
-                        columnNumber: 13
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {

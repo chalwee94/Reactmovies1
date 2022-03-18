@@ -28,11 +28,13 @@
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",
     "build": "npm run build:client && npm run build:server",
-    "build": "npm run build:client && npm run build:server",
     "build:client": "cd client && npm install --include=dev && npm run build",
     "build:server": "cd server && npm install",
     "test": "echo \"Error: no test specified\" && exit 1",
-
+    "author": "patrick yoro",
+    "license": "ISC",
+    "homepage": "https://github.com/chalwee94/Reactmovies1#readme"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chalwee94/Reactmovies1.git"
@@ -44,4 +46,4 @@
     "url": "https://github.com/chalwee94/Reactmovies1/issues"
   },
   "homepage": "https://github.com/chalwee94/Reactmovies1#readme"
-}}
+}
